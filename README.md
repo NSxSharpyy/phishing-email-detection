@@ -17,7 +17,7 @@ A supervised machine learning model built with Python and Scikit-learn to classi
 1. Make sure you have Python 3.x installed.
 2. Clone this repository:
 ```bash
-git clone [https://github.com/NSxSharpyy/phishing-email-detection.git](https://github.com/NSxSharpyy/phishing-email-detection.git)
+git clone https://github.com/NSxSharpyy/phishing-email-detection.git
 ```
 3. Install the required dependencies:
 ```bash
